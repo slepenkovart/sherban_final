@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+.link-header {
+    text-decoration: none; 
+    font-family: Calibri;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    background-image: linear-gradient(to right bottom, red, blue);
+    color: greenyellow;
+}
+
+h1 {
+    text-align: center;
+}
